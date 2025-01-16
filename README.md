@@ -1,5 +1,8 @@
 # YoutubeLens-Website
 
+## Home 
+![](/assets/YoutubeLens.png)
+
 ## 🚀 Overview
 
 Website to download the chrome extension to chat with your Youtube using AI.
